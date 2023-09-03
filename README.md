@@ -9,7 +9,7 @@ The bot goes through the subreddit "Economics" and finds the top 5 "Hot" posts t
 
 The result is a tweet containing a thread of the Headline, the 80 word summary of the article, and a link to the article for further reading if needed. This is a much more appealing way of digesting information rather than being shoved full on news articles in your face.
 
-Dependencies:
+**Dependencies**:
 
 Reddit API: Used to scrape subreddits to find relevant articles
 
