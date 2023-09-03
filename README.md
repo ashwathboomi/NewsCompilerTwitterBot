@@ -1,7 +1,7 @@
 # NewsCompilerTwitterBot
 ## Automated a Twitter/X bot that posts crowd-sourced trending economic news every day using Reddit API, Natural Language Processing Model (BERT), and Twitter/X API
 
-<font size="8'>*Full code can be found in the main branch. For privacy/security purposes, the API keys and secrets will not be provided. To implement something similar, replace API keys and secrets with one's own keys. This can be done by creating a developer app on Twitter & Reddit.*</font>
+<font size="1">*Full code can be found in the main branch. For privacy/security purposes, the API keys and secrets will not be provided. To implement something similar, replace API keys and secrets with one's own keys. This can be done by creating a developer app on Twitter & Reddit.*</font>
 
 Automated the process of getting crowd-sourced trending/important economic news every day and made it available for everyone on Twitter/X. Instead of having to scroll through reddit or google news, click through each of the links, and read through the entire article before realizing that you weren't interested and it was a waste of time, go on twitter/X follow @A_SH0O and get all the information you need in just 5 tweets!
 
